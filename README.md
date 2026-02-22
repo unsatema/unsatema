@@ -8,12 +8,10 @@
   
   # 👋 Salut, moi c'est **unsatema** !
 
-  **Développeur depuis 7 ans** · Passionné par le code, les jeux et l'apprentissage continu
+  **Dev depuis 7 ans** · Passion pour le code, les jeux et l'apprentissage continu
 
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unsatema)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unsatema)
-  [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unsatema)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/unsatema)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/prw48zPp8T)
 </div>
 
 ---
@@ -41,23 +39,6 @@
 
 ---
 
-## 📊 Stats GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unsatema&show_icons=true&theme=github_dark&hide_border=true" alt="Stats GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsatema&layout=compact&theme=github_dark&hide_border=true" alt="Langages les plus utilisés" height="160" />
-</div>
-
----
-
-## 📬 Me contacter
-
-Une idée de projet, une question ou juste dire coucou ?
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@exemple.com)
-
----
-
-<div align="center">
-  <sub>Merci d'être passé sur mon profil 🙌</sub>
+  <sub>Merci pour ta visite 🙌</sub>
 </div>
